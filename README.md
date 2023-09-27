@@ -18,6 +18,8 @@ npm install
 
 ## Deployed URL
 
+<https://bearer-auth-nuga.onrender.com>
+
 ## Collaborators
 
 Jacob Knaack, Chat GPT
